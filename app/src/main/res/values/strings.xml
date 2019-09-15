@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="convert_from">Конвертировать из</string>
+    <string name="convert_to">Конвертировать в </string>
+    <string name="_0">0</string>
+    <string name="convert">Конвертировать</string>
+</resources>
